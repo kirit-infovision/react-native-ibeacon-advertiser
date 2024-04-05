@@ -2,7 +2,7 @@
   "name": "react-native-ibeacon-advertiser",
   "version": "3.0.0",
   "description": "A cool package for simulate your iOS devices as beacon (compatible with RN 0.59.x)",
-  "author": "Kirit Vaghela <kirit.vaghela@infovisino.com>",
+  "author": "Kirit Vaghela <kirit.vaghela@infovision.com> (https://www.npmjs.com/~infovision)",
   "contributors": [
     "William Tran (https://github.com/williamtran29)",
     "Dennis Borshchevski (https://github.com/dennis-b)",
@@ -10,6 +10,9 @@
     "Manuel Muñoz (https://github.com/jaidis)",
     "Kirit Vaghela (https://github.com/kirit-infovision)"
   ],
+  "scripts": {
+    "release": "release-it"
+  },
   "nativePackage": true,
   "repository": {
     "type": "git",
@@ -27,7 +30,29 @@
     "url": "https://github.com/kirit-infovision/react-native-ibeacon-advertiser/issues"
   },
   "homepage": "https://github.com/kirit-infovision/react-native-ibeacon-advertiser#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "devDependencies": {
-    "jetifier": "^2.0.0"
+    "jetifier": "^2.0.0",
+    "release-it": "^15.0.0",
+    "@release-it/conventional-changelog": "^5.0.0"
+  },
+  "release-it": {
+    "git": {
+      "commitMessage": "chore: release ${version}",
+      "tagName": "v${version}"
+    },
+    "npm": {
+      "publish": true
+    },
+    "github": {
+      "release": true
+    },
+    "plugins": {
+      "@release-it/conventional-changelog": {
+        "preset": "angular"
+      }
+    }
   }
 }

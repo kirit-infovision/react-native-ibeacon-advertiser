@@ -1,29 +1,29 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml:2:1-11:12
-INJECTED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml:2:1-11:12
+ADDED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml:2:1-11:12
 	package
-		ADDED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml:3:11-42
-		INJECTED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml
+		ADDED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml:3:11-42
+		INJECTED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.BLUETOOTH
-ADDED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml:5:6-68
+ADDED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml:5:6-68
 	android:name
-		ADDED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml:5:23-66
+		ADDED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml:5:23-66
 uses-permission#android.permission.BLUETOOTH_ADMIN
-ADDED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml:6:6-74
+ADDED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml:6:6-74
 	android:name
-		ADDED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml:6:23-72
+		ADDED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml:6:23-72
 uses-permission-sdk-23#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml:9:6-88
+ADDED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml:9:6-88
 	android:name
-		ADDED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml:9:30-86
+		ADDED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml:9:30-86
 uses-sdk
-INJECTED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml
-INJECTED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml
+INJECTED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml
+INJECTED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/kirit.vaghela/Documents/IVL/ReactNative/PatientTrackingApp/node_modules/react-native-ibeacon-advertiser/android/src/main/AndroidManifest.xml
