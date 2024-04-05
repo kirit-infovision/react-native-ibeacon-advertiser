@@ -1,6 +1,6 @@
 {
   "name": "react-native-ibeacon-advertiser",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "A cool package for simulate your iOS devices as beacon (compatible with RN 0.59.x)",
   "author": "Kirit Vaghela <kirit.vaghela@infovision.com> (https://www.npmjs.com/~infovision)",
   "contributors": [
