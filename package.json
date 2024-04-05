@@ -1,5 +1,5 @@
 {
-  "name": "@kirit-infovision/react-native-ibeacon-simulator",
+  "name": "react-native-ibeacon-advertiser",
   "version": "3.0.0",
   "description": "A cool package for simulate your iOS devices as beacon (compatible with RN 0.59.x)",
   "author": "Kirit Vaghela <kirit.vaghela@infovisino.com>",
@@ -13,7 +13,7 @@
   "nativePackage": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kirit-infovision/react-native-ibeacon-simulator.git"
+    "url": "git+https://github.com/kirit-infovision/react-native-ibeacon-advertiser.git"
   },
   "keywords": [
     "react-native",
@@ -24,9 +24,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kirit-infovision/react-native-ibeacon-simulator/issues"
+    "url": "https://github.com/kirit-infovision/react-native-ibeacon-advertiser/issues"
   },
-  "homepage": "https://github.com/kirit-infovision/react-native-ibeacon-simulator#readme",
+  "homepage": "https://github.com/kirit-infovision/react-native-ibeacon-advertiser#readme",
   "devDependencies": {
     "jetifier": "^2.0.0"
   }
