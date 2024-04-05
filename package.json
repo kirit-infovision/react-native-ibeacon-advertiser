@@ -2,7 +2,7 @@
   "name": "@kirit-infovision/react-native-ibeacon-simulator",
   "version": "3.0.0",
   "description": "A cool package for simulate your iOS devices as beacon (compatible with RN 0.59.x)",
-  "author": "William Tran <chitran.whitecat@gmail.com>",
+  "author": "Kirit Vaghela <kirit.vaghela@infovisino.com>",
   "contributors": [
     "William Tran (https://github.com/williamtran29)",
     "Dennis Borshchevski (https://github.com/dennis-b)",
