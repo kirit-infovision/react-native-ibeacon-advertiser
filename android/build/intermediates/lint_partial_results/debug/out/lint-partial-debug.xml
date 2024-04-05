@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.1.1" type="partial_results">
+    <map id="NotificationPermission">
+        <entry
+            name="className"
+            string="org/altbeacon/bluetooth/BluetoothMedic"/>
+        <location id="class"
+            file="$GRADLE_USER_HOME/caches/transforms-3/629156885c3540787d1c7af8a9b1bcf1/transformed/android-beacon-library-2.13.1/jars/classes.jar"/>
+    </map>
+    <map id="UnusedResources">
+        <entry
+            name="model"
+            string=""/>
+    </map>
+
+</incidents>

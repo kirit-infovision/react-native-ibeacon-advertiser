@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ibeacon.simulator.test-mergeDebugAndroidTestResources-9:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/284d2f6d845989f3f907102b24eb2620/transformed/appcompat-1.2.0/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

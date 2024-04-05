@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ibeacon.simulator-mergeReleaseResources-5:/values-es-rES/values-es-rES.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/ce2e42deece3f515652f4fdf997ab33e/transformed/react-native-0.20.1/res/values-es-rES/values-es-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,186,265,336,396,452,511",
+                        "endColumns": "53,76,78,70,59,55,58,73",
+                        "endOffsets": "104,181,260,331,391,447,506,580"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.ibeacon.simulator-merged_res-7:/values-es-rES/values-es-rES.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/ce2e42deece3f515652f4fdf997ab33e/transformed/react-native-0.20.1/res/values-es-rES/values-es-rES.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,186,265,336,396,452,511",
+                        "endColumns": "53,76,78,70,59,55,58,73",
+                        "endOffsets": "104,181,260,331,391,447,506,580"
+                    }
+                }
+            ]
+        }
+    ]
+}

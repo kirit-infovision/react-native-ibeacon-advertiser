@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ibeacon.simulator-merged_res-7:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/742f5e81ca496a0364bd3979f82188dd/transformed/appcompat-v7-23.0.1/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "4,5,6,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "285,360,447,628",
+                        "endLines": "4,5,8,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "355,442,623,816"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,398",
+                        "endLines": "2,3,6,9",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,393,586"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.ibeacon.simulator-mergeReleaseResources-5:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/742f5e81ca496a0364bd3979f82188dd/transformed/appcompat-v7-23.0.1/res/values-v22/values-v22.xml",
+                    "from": {
+                        "startLines": "4,5,6,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "285,360,447,628",
+                        "endLines": "4,5,8,11",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "355,442,623,816"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,398",
+                        "endLines": "2,3,6,9",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,393,586"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ibeacon.simulator-mergeReleaseResources-5:/values-fb/values-fb.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/ce2e42deece3f515652f4fdf997ab33e/transformed/react-native-0.20.1/res/values-fb/values-fb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,146,253,369,477,579,672,768",
+                        "endColumns": "90,106,115,107,101,92,95,110",
+                        "endOffsets": "141,248,364,472,574,667,763,874"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.ibeacon.simulator-merged_res-7:/values-fb/values-fb.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/ce2e42deece3f515652f4fdf997ab33e/transformed/react-native-0.20.1/res/values-fb/values-fb.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,146,253,369,477,579,672,768",
+                        "endColumns": "90,106,115,107,101,92,95,110",
+                        "endOffsets": "141,248,364,472,574,667,763,874"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/Users/kirit.vaghela/react-native-ibeacon-simulator/android"
+    name=":"
+    type="LIBRARY"
+    maven=":android:"
+    agpVersion="8.1.1"
+    buildFolder="build"
+    bootClassPath="/Users/kirit.vaghela/Library/Android/sdk/platforms/android-28/android.jar:/Users/kirit.vaghela/Library/Android/sdk/build-tools/33.0.1/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-28"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>

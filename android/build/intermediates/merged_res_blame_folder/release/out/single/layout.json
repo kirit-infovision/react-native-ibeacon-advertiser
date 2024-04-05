@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_screen_toolbar.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/notification_media_cancel_action.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/notification_template_big_media_narrow.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/redbox_item_title.xml",
+        "source": "com.ibeacon.simulator-react-native-0.20.1-2:/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_list_menu_item_checkbox.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_list_menu_item_radio.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_action_bar_title_item.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_search_view.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/notification_template_media.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/notification_template_part_chronometer.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_activity_chooser_view.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_action_mode_bar.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_action_menu_item_layout.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/fps_view.xml",
+        "source": "com.ibeacon.simulator-react-native-0.20.1-2:/layout/fps_view.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_list_menu_item_layout.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_select_dialog_material.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_action_mode_close_item_material.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_list_menu_item_icon.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_action_bar_up_container.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/notification_template_part_time.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_alert_dialog_material.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/notification_media_action.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/redbox_view.xml",
+        "source": "com.ibeacon.simulator-react-native-0.20.1-2:/layout/redbox_view.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_screen_content_include.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_expanded_menu_layout.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/notification_template_big_media.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/select_dialog_singlechoice_material.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/select_dialog_item_material.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/notification_template_lines.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_action_menu_layout.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/redbox_item_frame.xml",
+        "source": "com.ibeacon.simulator-react-native-0.20.1-2:/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_screen_simple.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/select_dialog_multichoice_material.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_popup_menu_item_layout.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_dialog_title_material.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/layout/abc_activity_chooser_view_list_item.xml"
+    }
+]

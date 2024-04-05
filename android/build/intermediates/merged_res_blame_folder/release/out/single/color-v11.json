@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "com.ibeacon.simulator-merged_res-7:/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "com.ibeacon.simulator-appcompat-v7-23.0.1-1:/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
