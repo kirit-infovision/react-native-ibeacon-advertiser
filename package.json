@@ -13,7 +13,7 @@
   "nativePackage": true,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaidis/react-native-ibeacon-simulator.git"
+    "url": "git+https://github.com/kirit-infovision/react-native-ibeacon-simulator.git"
   },
   "keywords": [
     "react-native",
