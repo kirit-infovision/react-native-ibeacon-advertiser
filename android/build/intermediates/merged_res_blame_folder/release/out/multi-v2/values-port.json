@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ibeacon.simulator-mergeReleaseResources-5:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/742f5e81ca496a0364bd3979f82188dd/transformed/appcompat-v7-23.0.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "280",
+                        "endColumns": "55",
+                        "endOffsets": "331"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.ibeacon.simulator-merged_res-7:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/742f5e81ca496a0364bd3979f82188dd/transformed/appcompat-v7-23.0.1/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "280",
+                        "endColumns": "55",
+                        "endOffsets": "331"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ibeacon.simulator-merged_res-7:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/742f5e81ca496a0364bd3979f82188dd/transformed/appcompat-v7-23.0.1/res/values-hdpi/values-hdpi.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "286",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "558"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.ibeacon.simulator-mergeReleaseResources-5:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/742f5e81ca496a0364bd3979f82188dd/transformed/appcompat-v7-23.0.1/res/values-hdpi/values-hdpi.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "286",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "558"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

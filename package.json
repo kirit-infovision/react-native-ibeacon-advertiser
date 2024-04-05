@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/jaidis/react-native-ibeacon-simulator/issues"
   },
-  "homepage": "https://github.com/jaidis/react-native-ibeacon-simulator#readme"
+  "homepage": "https://github.com/jaidis/react-native-ibeacon-simulator#readme",
+  "devDependencies": {
+    "jetifier": "^2.0.0"
+  }
 }

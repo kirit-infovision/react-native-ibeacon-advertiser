@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.1.1" type="incidents">
+
+    <incident
+        id="JcenterRepositoryObsolete"
+        severity="warning"
+        message="JCenter Maven repository is no longer receiving updates: newer library versions may be available elsewhere">
+        <fix-alternatives>
+            <fix-replace
+                description="Replace with mavenCentral"
+                oldString="jcenter"
+                replacement="mavenCentral"/>
+            <fix-replace
+                description="Delete this repository declaration"
+                replacement=""/>
+        </fix-alternatives>
+        <location
+            file="${:*projectDir}/build.gradle"
+            line="7"
+            column="9"
+            startOffset="81"
+            endLine="7"
+            endColumn="18"
+            endOffset="90"/>
+    </incident>
+
+    <incident
+        id="JcenterRepositoryObsolete"
+        severity="warning"
+        message="JCenter Maven repository is no longer receiving updates: newer library versions may be available elsewhere">
+        <fix-alternatives>
+            <fix-replace
+                description="Replace with mavenCentral"
+                oldString="jcenter"
+                replacement="mavenCentral"/>
+            <fix-replace
+                description="Delete this repository declaration"
+                replacement=""/>
+        </fix-alternatives>
+        <location
+            file="${:*projectDir}/build.gradle"
+            line="18"
+            column="5"
+            startOffset="266"
+            endLine="18"
+            endColumn="14"
+            endOffset="275"/>
+    </incident>
+
+    <incident
+        id="AndroidGradlePluginVersion"
+        severity="warning"
+        message="A newer version of com.android.tools.build:gradle than 8.1.1 is available: 8.3.1. (There is also a newer version of 8.1.𝑥 available, if upgrading to 8.3.1 is difficult: 8.1.4)">
+        <fix-alternatives>
+            <fix-replace
+                description="Change to 8.3.1"
+                family="Update versions"
+                oldString="8.1.1"
+                replacement="8.3.1"/>
+            <fix-replace
+                description="Change to 8.1.4"
+                family="Update versions"
+                robot="true"
+                independent="true"
+                oldString="8.1.1"
+                replacement="8.1.4"/>
+        </fix-alternatives>
+        <location
+            file="${:*projectDir}/build.gradle"
+            line="10"
+            column="9"
+            startOffset="124"
+            endLine="10"
+            endColumn="57"
+            endOffset="172"/>
+    </incident>
+
+    <incident
+        id="GradleDependency"
+        severity="warning"
+        message="A newer version of org.altbeacon:android-beacon-library than 2.13.1 is available: 2.20.4">
+        <fix-replace
+            description="Change to 2.20.4"
+            family="Update versions"
+            oldString="2.13.1"
+            replacement="2.20.4"/>
+        <location
+            file="${:*projectDir}/build.gradle"
+            line="41"
+            column="20"
+            startOffset="666"
+            endLine="41"
+            endColumn="65"
+            endOffset="711"/>
+    </incident>
+
+</incidents>

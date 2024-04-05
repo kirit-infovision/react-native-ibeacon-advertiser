@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<incidents format="6" by="lint 8.1.1" type="conditional_incidents">
+
+    <incident
+        id="InlinedApi"
+        severity="warning"
+        message="">
+        <fix-data minSdk="fffffffffffe0000" requiresApi="fffffffffff00000"/>
+        <location
+            file="${:*debug*sourceProvider*0*javaDir*0}/com/ibeacon/simulator/BeaconBroadcast.java"
+            line="101"
+            column="53"
+            startOffset="4264"
+            endLine="101"
+            endColumn="97"
+            endOffset="4308"/>
+        <map>
+            <api-levels id="minSdk"
+                value="fffffffffffe0000"/>
+            <api-levels id="requiresApi"
+                value="fffffffffff00000"/>
+            <entry
+                name="message"
+                string="Field requires API level 21 (current min is %1$s): `android.bluetooth.le.AdvertiseSettings#ADVERTISE_MODE_LOW_LATENCY`"/>
+        </map>
+    </incident>
+
+    <incident
+        id="InlinedApi"
+        severity="warning"
+        message="">
+        <fix-data minSdk="fffffffffffe0000" requiresApi="fffffffffff00000"/>
+        <location
+            file="${:*debug*sourceProvider*0*javaDir*0}/com/ibeacon/simulator/BeaconBroadcast.java"
+            line="102"
+            column="61"
+            startOffset="4371"
+            endLine="102"
+            endColumn="102"
+            endOffset="4412"/>
+        <map>
+            <api-levels id="minSdk"
+                value="fffffffffffe0000"/>
+            <api-levels id="requiresApi"
+                value="fffffffffff00000"/>
+            <entry
+                name="message"
+                string="Field requires API level 21 (current min is %1$s): `android.bluetooth.le.AdvertiseSettings#ADVERTISE_TX_POWER_HIGH`"/>
+        </map>
+    </incident>
+
+    <incident
+        id="NewApi"
+        severity="error"
+        message="">
+        <fix-data minSdk="fffffffffffe0000" requiresApi="fffffffffff00000"/>
+        <location
+            file="${:*debug*sourceProvider*0*javaDir*0}/com/ibeacon/simulator/BeaconBroadcast.java"
+            line="103"
+            column="61"
+            startOffset="4475"
+            endLine="114"
+            endColumn="14"
+            endOffset="4903"/>
+        <map>
+            <api-levels id="minSdk"
+                value="fffffffffffe0000"/>
+            <api-levels id="requiresApi"
+                value="fffffffffff00000"/>
+            <entry
+                name="message"
+                string="Cast to `AdvertiseCallback` requires API level 21 (current min is %1$s)"/>
+        </map>
+    </incident>
+
+    <incident
+        id="NewApi"
+        severity="error"
+        message="">
+        <fix-data minSdk="fffffffffffe0000" requiresApi="fffffffffff00000"/>
+        <location
+            file="${:*debug*sourceProvider*0*javaDir*0}/com/ibeacon/simulator/BeaconBroadcast.java"
+            line="103"
+            column="65"
+            startOffset="4479"
+            endLine="103"
+            endColumn="82"
+            endOffset="4496"/>
+        <map>
+            <api-levels id="minSdk"
+                value="fffffffffffe0000"/>
+            <api-levels id="requiresApi"
+                value="fffffffffff00000"/>
+            <entry
+                name="message"
+                string="Class requires API level 21 (current min is %1$s): `android.bluetooth.le.AdvertiseCallback`"/>
+        </map>
+    </incident>
+
+    <incident
+        id="ExpiredTargetSdkVersion"
+        severity="fatal"
+        message="Google Play requires that apps target API level 31 or higher.&#xA;">
+        <location
+            file="${:*projectDir}/build.gradle"
+            line="30"
+            column="9"
+            startOffset="444"
+            endLine="30"
+            endColumn="28"
+            endOffset="463"/>
+    </incident>
+
+</incidents>

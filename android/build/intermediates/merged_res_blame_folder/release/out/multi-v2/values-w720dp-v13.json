@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.ibeacon.simulator-merged_res-7:/values-w720dp-v13/values-w720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/742f5e81ca496a0364bd3979f82188dd/transformed/appcompat-v7-23.0.1/res/values-w720dp/values-w720dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "282",
+                        "endColumns": "76",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.ibeacon.simulator-mergeReleaseResources-5:/values-w720dp-v13/values-w720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/kirit.vaghela/.gradle/caches/transforms-3/742f5e81ca496a0364bd3979f82188dd/transformed/appcompat-v7-23.0.1/res/values-w720dp/values-w720dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "282",
+                        "endColumns": "76",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "76",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+com.ibeacon.simulator-recyclerview-v7-23.0.1-0 /Users/kirit.vaghela/.gradle/caches/transforms-3/138ed64369c13ec9b0e818504b3b7bca/transformed/recyclerview-v7-23.0.1/res
+com.ibeacon.simulator-appcompat-v7-23.0.1-1 /Users/kirit.vaghela/.gradle/caches/transforms-3/742f5e81ca496a0364bd3979f82188dd/transformed/appcompat-v7-23.0.1/res
+com.ibeacon.simulator-react-native-0.20.1-2 /Users/kirit.vaghela/.gradle/caches/transforms-3/ce2e42deece3f515652f4fdf997ab33e/transformed/react-native-0.20.1/res
+com.ibeacon.simulator-drawee-0.8.1-3 /Users/kirit.vaghela/.gradle/caches/transforms-3/f3817ef6442409e85087699b6d569f35/transformed/drawee-0.8.1/res
+com.ibeacon.simulator-pngs-4 /Users/kirit.vaghela/react-native-ibeacon-simulator/android/build/generated/res/pngs/release
+com.ibeacon.simulator-resValues-5 /Users/kirit.vaghela/react-native-ibeacon-simulator/android/build/generated/res/resValues/release
+com.ibeacon.simulator-mergeReleaseResources-6 /Users/kirit.vaghela/react-native-ibeacon-simulator/android/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.ibeacon.simulator-mergeReleaseResources-7 /Users/kirit.vaghela/react-native-ibeacon-simulator/android/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.ibeacon.simulator-merged_res-8 /Users/kirit.vaghela/react-native-ibeacon-simulator/android/build/intermediates/merged_res/release
+com.ibeacon.simulator-main-9 /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/main/res
+com.ibeacon.simulator-release-10 /Users/kirit.vaghela/react-native-ibeacon-simulator/android/src/release/res
